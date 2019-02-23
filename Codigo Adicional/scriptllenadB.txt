@@ -1,0 +1,61 @@
+		public void Main()
+        {
+           
+            string Delimitador = Dts.Variables["User::Delimitador"].Value.ToString();
+            string ExtensionFile = Dts.Variables["User::ExtensionDeArchivo"].Value.ToString();
+           string FolderDestino = Dts.Variables["User::FolderDestino"].Value.ToString();
+             string FolderError = Dts.Variables["User::FolderError"].Value.ToString();
+             string FolderOrigen = Dts.Variables["User::FolderOrigen"].Value.ToString();
+             string Tabla = Dts.Variables["User::FolderOrigen"].Value.ToString();
+             string Query = Dts.Variables["User::Query"].Value.ToString();
+            
+            try
+             {
+               //Lectura de cada uno de los archivos en la carpeta
+                string SourceDirectory = FolderOrigen;
+                string[] fileEntries = Directory.GetFiles(SourceDirectory, "*" + "*");
+
+                foreach (string fileName in fileEntries)
+                 {
+                   
+                    SqlConnection myADONETConnection = new SqlConnection();
+                     myADONETConnection = (SqlConnection)
+                         (Dts.Connections["DBconn"].AcquireConnection(Dts.Transaction) as SqlConnection);
+                     //Variable para la lectura de los archivos de texto
+                     int counter = 0;
+                     string line;
+                     System.IO.StreamReader SourceFile =
+                         new System.IO.StreamReader(fileName);
+                  
+                    while ((line = SourceFile.ReadLine()) != null)
+                     {
+                       
+                        if (counter > 0)
+                         {
+                             string[] campos = line.Split(Delimitador.ToCharArray()[0]);
+                             string value = concatenar(campos);
+                             string query = Query + " values " + value+";" ;
+                         
+                            SqlCommand myCommand1 = new SqlCommand(query, myADONETConnection);
+                            //MessageBox.Show( query, "No registrado", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                            //MessageBox.Show("insert into Table_1(codigo,nombre) values ('dato', 'dato'); ", "No registrado", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                            myCommand1.ExecuteNonQuery();
+                            //MessageBox.Show("fin de insert", "No registrado", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                        }
+                         counter++;
+                     }
+                     SourceFile.Close();
+                     Dts.TaskResult = (int)ScriptResults.Success;
+                 }
+
+             }
+             catch (Exception exception) {
+                 using (StreamWriter sw = File.CreateText(FolderError + "\\" + "Error.Log.log")) {
+                     sw.WriteLine(exception.ToString());
+                     Dts.TaskResult = (int)ScriptResults.Failure;
+                 }
+
+             }
+          
+           // Dts.TaskResult = (int)ScriptResults.Success;
+        }
