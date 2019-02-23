@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Seminario de sistemas 2", "Seminario de sistemas 2\Seminario de sistemas 2.dtproj", "{B24D1312-6876-4199-9B55-CB1CFC710B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24D1312-6876-4199-9B55-CB1CFC710B0E}.Development|Default.ActiveCfg = Development
+		{B24D1312-6876-4199-9B55-CB1CFC710B0E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0636AC-11E2-44F0-802F-57D22DD6CE01}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+﻿CodigoArticulo|Descripcion|Departamento(Tienda)|CLIENTE/PROVEEDOR|CodigoCliente|TipoCliente|NombreCliente|CodigoSucursal|NombreSucursal|Direccion|Region|Departamento|zona|Cantidad|PrecioUnitario|Costo|Fecha
+AB000000|luis Azurdia|luigi|C|K0000000|Minorista|luigirecero|S00|casa|Casita|Sur|mi|0|0|0|0|01/06/2017

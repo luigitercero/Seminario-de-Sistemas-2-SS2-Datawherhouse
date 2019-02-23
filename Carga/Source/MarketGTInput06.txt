@@ -1,0 +1,201 @@
+﻿CodigoArticulo|Descripcion|Departamento(Tienda)|CLIENTE/PROVEEDOR|CodigoCliente|TipoCliente|NombreCliente|CodigoSucursal|NombreSucursal|Direccion|Region|Departamento|zona|Cantidad|PrecioUnitario|Costo|Fecha
+AB000084|ACQUA DI GIO GIORGIO ARMANI DAMA TOILETTE 100|Perfumeria|C|K487832|Minorista|Jescie Bolton|S38|Sucursal Elite 38|Calz. Roosevelt 14-82 C.C. Galerias Primma Local 138|Sur|Sololá|9|5|945|661.5|01/06/2017
+AB000016|Pantaloneta|Ropa de niños|C|G373823|Minorista|Leilani Mercado|S23|Sucursal Elite 23|1a. Calle 2a. Av. Lt. 3A Jocotales|Norte|Baja Verapaz|9|4|50|35|01/10/2016
+AB000091|AIRE LOCO LOEWE DAMA TOILETTE 100|Perfumeria|C|W344252|Minorista|Aaron Salazar|S10|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|3|831|581.7|01/05/2016
+AB000013|Chumpa de lona|Ropa de caballero|C|Z499617|Minorista|Wesley England|S34|Sucursal Elite 34|14 Calle 7-14 |Sur|Santa Rosa|1|1|250|175|01/12/2016
+AB000047|24 FAUBOURY HERMES DAMA TOILETTE 100|Perfumeria|C|Y371742|Minorista|Cassandra Hoover|S4|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|10|1250|875|01/05/2017
+|Secadora de ropa|Electrodomesticos|C|C214716|Minorista|Zoe Walter|S41|Sucursal Elite 41|CA-9 Atlantico 32-79 C.C. Plaza San Rafael Local 10|Sur|Zacapa|3|8|2840|1988|01/02/2015
+|360 CORAL PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|J536193|Minorista|Glenna Waters|S39|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|9|540|378|01/12/2016
+AB000018|Playera|Ropa de niños|C|Q134515|Minorista|Deirdre Mathis|S23|Sucursal Elite 23|1a. Calle 2a. Av. Lt. 3A Jocotales|Norte|Baja Verapaz|9|3|60|42|01/05/2016
+AB000087|ADIDAS FLORAL DREAM ADIDAS DAMA TOILETTE 50|Perfumeria|C|E767479|Minorista|Brynn Higgins|S29|Sucursal Elite 29|15 Av. 2-61 Barrio La Parroquia|Norte|Chimaltenango|15|2|191|133.7|01/10/2016
+AB000047|24 FAUBOURY HERMES DAMA TOILETTE 100|Perfumeria|C|T489744|Minorista|Rafael Hale|S22|Sucursal Elite 22|Av. Petapa 46 Calle 45-70 Local 5|Norte|Baja Verapaz|11|4|1250|875|01/04/2016
+AB000031|Lavadora|Electrodomesticos|C|E216444|Minorista|Gemma Barrett|S30|Sucursal Elite 30|7a. Av. 4-97 Col. La Florida|Norte|Escuintla|11|5|3599|2519.3|01/04/2017
+AB000056|360 PINK PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|H455964|Minorista|Bruno Burks|S25|Sucursal Elite 25|1a. Calle 6-20 |Sur|Santa Rosa|6|6|475|332.5|01/05/2016
+AB000054|360 COLLECTION PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|Z299451|Minorista|Phelan Gross|S20|Sucursal Elite 20|C.C. Paseo San Juan Calz. San Juan Col. Valle del Sol Locales 103 y 119 |Sur|San Marcos|7|7|571|399.7|01/04/2016
+AB000089|ADIDAS TROPICAL PASSION ADIDAS DAMA TOILETTE 50|Perfumeria|C|E683772|Minorista|Vivian Patrick|S11|Sucursal Elite 11|Lt. 236 "B" Mz. 22 Col. Maya|Sur|Suchitepéquez|11|8|191|133.7|01/03/2016
+AB000080|90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|R689765|Minorista|Chelsea Sutton|S25|Sucursal Elite 25|1a. Calle 6-20 |Sur|Santa Rosa|6|3|276|193.2|01/01/2016
+AB000058|360 RED PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|T732299|Minorista|Alfreda Hester|S14|Sucursal Elite 14|18 Calle 5-44|Sur|Zacapa|4|5|391|273.7|01/07/2015
+AB000059|360 WHITE PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|R482853|Minorista|Adara Lawrence|S23|Sucursal Elite 23|1a. Calle 2a. Av. Lt. 3A Jocotales|Norte|Baja Verapaz|9|7|441|308.7|01/05/2016
+AB000010|Camisa de vestir|Ropa de caballero|C|H781414|Minorista|September Allison|S6|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|1|150|105|01/12/2015
+AB000034|Minicomponente|Electrodomesticos|C|U961913|Minorista|Nita Mcdowell|S4|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|5|1263|884.1|01/01/2015
+AB000054|360 COLLECTION PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|S737426|Minorista|Cameron Mccoy|S42|Sucursal Elite 42|Av. Petapa 51-57 Local 157 C.C. Plaza Atanasio Tzul|Norte|Huehuetenango|9|1|571|399.7|01/02/2017
+AB000021|Pelota medicinal|Deporte|C|Y119131|Minorista|Nadine Kelly|S35|Sucursal Elite 35|Km. 17.5 ctra. Al Salvado C.C. Plaza Santina Local 10|Occidente|Quetzaltenango|15|6|150|105|01/08/2015
+AB000021|Pelota medicinal|Deporte|C|F919641|Minorista|Uriel Taylor|S27|Sucursal Elite 27|Av. Las Americas 3-60|Sur|Suchitepéquez|11|6|150|105|01/05/2016
+AB000051|360 PERRY ELLIS DAMA TOILETTE 100|Perfumeria|C|K734656|Minorista|Sean Bernard|S25|Sucursal Elite 25|1a. Calle 6-20 |Sur|Santa Rosa|6|9|390|273|01/10/2016
+AB000047|24 FAUBOURY HERMES DAMA TOILETTE 100|Perfumeria|C|N349336|Minorista|Raven Henderson|S29|Sucursal Elite 29|15 Av. 2-61 Barrio La Parroquia|Norte|Chimaltenango|15|4|1250|875|01/09/2016
+AB000002|Pantalon de vestir|Ropa de Dama|C|N292842|Minorista|Carter Joyner|S37|Sucursal Elite 37|4 Av. 18-37 Local F-07 Galeria Comercial el Amate|Norte|Guatemala|4|8|120|84|01/03/2017
+AB000050|273 RED FRED HAYMAN ́S DAMA PERFUME 75|Perfumeria|C|V561922|Minorista|Blythe Owen|S26|Sucursal Elite 26|16 Av. 6-88 Col. Carabanchel|Occidente|Quetzaltenango|3|2|355|248.5|01/01/2017
+AB000046|212 VIP WILD PARTY CAROLINA HERRERA DAMA PERFUME 100|Perfumeria|C|X138467|Minorista|Fitzgerald Park|S26|Sucursal Elite 26|16 Av. 6-88 Col. Carabanchel|Occidente|Quetzaltenango|3|2|980|686|01/01/2015
+AB000003|Pantalon de mezclilla|Ropa de Dama|C|W559969|Minorista|Amal Hatfield|S30|Sucursal Elite 30|7a. Av. 4-97 Col. La Florida|Norte|Escuintla|11|2|120|84|01/11/2016
+AB000064|5TH AVENUE NIGHTS ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|A583229|Minorista|Conan Hernandez|S31|Sucursal Elite 31|12a. Av. 4-48 Col. La Florida|Occidente|Quiché|15|4|335|234.5|01/05/2016
+AB000045|212 VIP ROSE CAROLINA HERRERA DAMA PERFUME 80|Perfumeria|C|K882178|Minorista|Fletcher Washington|S15|Sucursal Elite 15|2a Calle 15-42  Col. El Maestro|Norte|Jalapa|4|4|990|693|01/06/2017
+AB000086|ADIDAS FRUITY RHYTHM ADIDAS DAMA TOILETTE 50|Perfumeria|C|T249684|Minorista|Channing Sawyer|S37|Sucursal Elite 37|4 Av. 18-37 Local F-07 Galeria Comercial el Amate|Norte|Guatemala|4|9|191|133.7|01/09/2016
+AB000079|90210 VERY SEXY TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|G696431|Minorista|Audra Oneal|S23|Sucursal Elite 23|1a. Calle 2a. Av. Lt. 3A Jocotales|Norte|Baja Verapaz|9|2|276|193.2|01/04/2015
+AB000025|Pelota de futbol|Deporte|C|Z629394|Minorista|David Gentry|S13|Sucursal Elite 13|Lt. 9 Seccion RR Col. El Milagro|Sur|Totonicapán|15|5|150|105|01/04/2017
+AB000071|90210 METAL JEANS TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100|Perfumeria|C|K748936|Minorista|Hector Foreman|S12|Sucursal Elite 12|6a Calle 4 Av.  Esquina 3-75|Norte|Baja Verapaz|5|7|266|186.2|01/10/2015
+AB000054|360 COLLECTION PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|Y163896|Mayorista|Lyle Joseph|S25|Sucursal Elite 25|1a. Calle 6-20 |Sur|Santa Rosa|6|48|571|399.7|01/11/2015
+AB000006|Vestidos|Ropa de Dama|C|J232613|Mayorista|Lucas Norton|S11|Sucursal Elite 11|Lt. 236 "B" Mz. 22 Col. Maya|Sur|Suchitepéquez|11|34|90|63|01/01/2015
+AB000051|360 PERRY ELLIS DAMA TOILETTE 100|Perfumeria|C|A678591|Mayorista|Moana Frazier|S24|Sucursal Elite 24|Calz. Roosevelt 37-60 Col. Toledo|Occidente|Quiché|6|42|390|273|01/12/2015
+AB000085|ACQUA DI GIOIA GIORGIO ARMANI DAMA PERFUME 100|Perfumeria|C|B179751|Mayorista|Chase Benjamin|S31|Sucursal Elite 31|12a. Av. 4-48 Col. La Florida|Occidente|Quiché|15|47|731|511.7|01/07/2015
+AB000092|AIRE LOEWE LOEWE DAMA TOILETTE 100|Perfumeria|C|B776597|Mayorista|Brenden Clark|S8|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|28|626|438.2|01/03/2015
+AB000015|Pantalon de lona|Ropa de niños|C|J126652|Minorista|Donna Kinney|S13|Sucursal Elite 13|Lt. 9 Seccion RR Col. El Milagro|Sur|Totonicapán|15|4|110|77|01/03/2016
+AB000096|ALLURE SENSUELLE CHANEL DAMA PERFUME 100|Perfumeria|C|I291567|Minorista|Claire Good|S39|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|9|1351|945.7|01/11/2015
+AB000052|360 BLACK PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|G295694|Minorista|Zoe Holland|S10|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|4|376|263.2|01/06/2015
+AB000068|90210 ENERGY TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100|Perfumeria|C|D462748|Minorista|Chase Russell|S32|Sucursal Elite 32|Blvd. El Caminero 14-32 Col. San Francisco I C.C. San Fransisco Local 6|Norte|Petén|3|5|261|182.7|01/09/2016
+AB000048|24K BRILLIANT GOLD MICHAEL KORS DAMA PERFUME 100|Perfumeria|C|G631867|Minorista|Vivian Sutton|S24|Sucursal Elite 24|Calz. Roosevelt 37-60 Col. Toledo|Occidente|Quiché|6|5|1250|875|01/07/2015
+AB000059|360 WHITE PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|N813247|Minorista|Cheryl Frederick|S2|Sucursal Elite 19|36 Av. 1-74 C.C. Mateo Express|Norte|Chiquimula|12|7|441|308.7|01/11/2015
+AB000052|360 BLACK PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|K965918|Minorista|Lucian Fleming|S39|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|4|376|263.2|01/11/2016
+AB000079|90210 VERY SEXY TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|G311237|Minorista|Kamal Nichols|S29|Sucursal Elite 29|15 Av. 2-61 Barrio La Parroquia|Norte|Chimaltenango|15|1|276|193.2|01/01/2017
+AB000021|Pelota medicinal|Deporte|C|G687128|Minorista|Nita Wiley|S29|Sucursal Elite 29|15 Av. 2-61 Barrio La Parroquia|Norte|Chimaltenango|15|6|150|105|01/03/2017
+AB000069|90210 GOLD JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|Z746623|Minorista|Gil Oneal|S37|Sucursal Elite 37|4 Av. 18-37 Local F-07 Galeria Comercial el Amate|Norte|Guatemala|4|9|236|165.2|01/08/2016
+AB000098|AMARIGE GIVENCHY DAMA TOILETTE 100|Perfumeria|C|R564289|Mayorista|Kadeem Holden|S35|Sucursal Elite 35|Km. 17.5 ctra. Al Salvado C.C. Plaza Santina Local 10|Occidente|Quetzaltenango|15|44|656|459.2|01/05/2016
+AB000048|24K BRILLIANT GOLD MICHAEL KORS DAMA PERFUME 100|Perfumeria|C|K543942|Mayorista|Kaye Howe|S9|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|35|1250|875|01/05/2015
+AB000077|90210 TOUCH OF GOLD TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|Q545442|Mayorista|Deirdre Short|S37|Sucursal Elite 37|4 Av. 18-37 Local F-07 Galeria Comercial el Amate|Norte|Guatemala|4|28|331|231.7|01/03/2015
+AB000052|360 BLACK PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|Q626774|Mayorista|Adele Mcdaniel|S35|Sucursal Elite 35|Km. 17.5 ctra. Al Salvado C.C. Plaza Santina Local 10|Occidente|Quetzaltenango|15|49|376|263.2|01/07/2015
+AB000090|AGUA DE LOEWE ELLA LOEWE DAMA TOILETTE 100|Perfumeria|C|B161629|Mayorista|Odysseus Lara|S43|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|28|731|511.7|01/10/2016
+AB000065|5TH AVENUE STYLE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|O584717|Mayorista|Kaye Davenport|S15|Sucursal Elite 15|2a Calle 15-42  Col. El Maestro|Norte|Jalapa|4|34|345|241.5|01/05/2016
+AB000004|Blazer|Ropa de Dama|C|H434583|Mayorista|Bruno Sullivan|S42|Sucursal Elite 42|Av. Petapa 51-57 Local 157 C.C. Plaza Atanasio Tzul|Norte|Huehuetenango|9|22|180|126|01/08/2015
+AB000021|Pelota medicinal|Deporte|C|R734251|Mayorista|Audra Madden|S9|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|27|150|105|01/12/2016
+AB000080|90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|W884163|Mayorista|Raya Hogan|S4|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|40|276|193.2|01/07/2015
+AB000037|Cama|Muebles|C|P476591|Mayorista|Clarke Delaney|S20|Sucursal Elite 20|C.C. Paseo San Juan Calz. San Juan Col. Valle del Sol Locales 103 y 119 |Sur|San Marcos|7|40|4210|2947|01/10/2015
+AB000064|5TH AVENUE NIGHTS ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|X661493|Mayorista|Marshall Carey|S20|Sucursal Elite 20|C.C. Paseo San Juan Calz. San Juan Col. Valle del Sol Locales 103 y 119 |Sur|San Marcos|7|20|335|234.5|01/05/2015
+AB000046|212 VIP WILD PARTY CAROLINA HERRERA DAMA PERFUME 100|Perfumeria|C|F888291|Mayorista|Wesley Oneill|S6|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|36|980|686|01/05/2017
+AB000091|AIRE LOCO LOEWE DAMA TOILETTE 100|Perfumeria|C|B218928|Mayorista|Christian Stanley|S40|Sucursal Elite 40|Calz. San Juan 11-13 Col. La Florida|Norte|Jalapa|14|22|831|581.7|01/01/2017
+AB000083|A SCENT BY ISSEY MIYAKE ISSEY MIYAKE DAMA TOILETTE 100|Perfumeria|C|M456377|Mayorista|Ulric Marshall|S20|Sucursal Elite 20|C.C. Paseo San Juan Calz. San Juan Col. Valle del Sol Locales 103 y 119 |Sur|San Marcos|7|39|711|497.7|01/03/2017
+AB000033|Televisor 40"|Electrodomesticos|C|P111553|Mayorista|Graiden Charles|S17|Sucursal Elite 17|Calz. Roosevelt 34-71 Plaza Helvetia|Norte|Baja Verapaz|15|25|4500|3150|01/03/2017
+AB000081|90210 TOUCH PINK TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|E628927|Mayorista|Alma Ballard|S18|Sucursal Elite 18|4 Calle 9-78|Norte|Alta Verapaz|8|32|256|179.2|01/02/2015
+AB000047|24 FAUBOURY HERMES DAMA TOILETTE 100|Perfumeria|C|H963214|Mayorista|Daria Guzman|S32|Sucursal Elite 32|Blvd. El Caminero 14-32 Col. San Francisco I C.C. San Fransisco Local 6|Norte|Petén|3|21|1250|875|01/12/2015
+AB000062|5TH AVENUE NYC ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|X998772|Mayorista|Tatiana Jordan|S10|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|27|365|255.5|01/03/2017
+AB000008|Falda Larga|Ropa de Dama|C|H432191|Mayorista|Ryder Mcmahon|S33|Sucursal Elite 33|6 Calle 3-09|Norte|Alta Verapaz|15|38|70|49|01/07/2016
+AB000013|Chumpa de lona|Ropa de caballero|C|Y923456|Mayorista|Aretha Foley|S21|Sucursal Elite 21|Calzada Aguilar Batres 9-00 Col. El Progreso|Norte|Huehuetenango|14|42|250|175|01/04/2017
+AB000050|273 RED FRED HAYMAN ́S DAMA PERFUME 75|Perfumeria|C|T768464|Mayorista|Elaine Nielsen|S17|Sucursal Elite 17|Calz. Roosevelt 34-71 Plaza Helvetia|Norte|Baja Verapaz|15|50|355|248.5|01/09/2016
+AB000063|5TH NYC PREMIERE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|L276535|Mayorista|Josiah David|S5|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|35|380|266|01/09/2015
+AB000026|Pelota de basketball|Deporte|C|D657895|Mayorista|Tanisha Pate|S43|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|45|169|118.3|01/07/2016
+AB000035|Amueblado de sala|Muebles|C|Z257474|Minorista|Colleen Noble|S39|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|3|5400|3780|01/11/2016
+AB000013|Chumpa de lona|Ropa de caballero|C|F298425|Minorista|Pamela Richard|S30|Sucursal Elite 30|7a. Av. 4-97 Col. La Florida|Norte|Escuintla|11|8|250|175|01/01/2015
+AB000094|ALLURE CHANEL DAMA TOILETTE 100|Perfumeria|C|W344699|Minorista|Quemby Foley|S33|Sucursal Elite 33|6 Calle 3-09|Norte|Alta Verapaz|15|10|1081|756.7|01/03/2016
+AB000095|ALLURE CHANEL DAMA PERFUME 100|Perfumeria|C|J423476|Minorista|Wynter Yang|S2|Sucursal Elite 19|36 Av. 1-74 C.C. Mateo Express|Norte|Chiquimula|12|2|1381|966.7|01/07/2015
+AB000081|90210 TOUCH PINK TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|B867287|Minorista|Jenna Barber|S12|Sucursal Elite 12|6a Calle 4 Av.  Esquina 3-75|Norte|Baja Verapaz|5|3|256|179.2|01/03/2016
+AB000031|Lavadora|Electrodomesticos|C|C862698|Minorista|Malcolm Stewart|S24|Sucursal Elite 24|Calz. Roosevelt 37-60 Col. Toledo|Occidente|Quiché|6|5|3599|2519.3|01/04/2016
+AB000061|5TH AVENUE AFTER FIVE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|E157511|Minorista|Carl Schultz|S3|Sucursal Elite 29|15 Av. 2-61 Barrio La Parroquia|Norte|Chimaltenango|15|4|375|262.5|01/09/2015
+AB000006|Vestidos|Ropa de Dama|C|K591485|Minorista|Oren Lamb|S15|Sucursal Elite 15|2a Calle 15-42  Col. El Maestro|Norte|Jalapa|4|5|90|63|01/11/2016
+AB000086|ADIDAS FRUITY RHYTHM ADIDAS DAMA TOILETTE 50|Perfumeria|C|Z614617|Minorista|Ariel Lara|S32|Sucursal Elite 32|Blvd. El Caminero 14-32 Col. San Francisco I C.C. San Fransisco Local 6|Norte|Petén|3|4|191|133.7|01/03/2015
+AB000067|90210 TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100|Perfumeria|C|T359581|Minorista|Cecilia Stevenson|S30|Sucursal Elite 30|7a. Av. 4-97 Col. La Florida|Norte|Escuintla|11|2|221|154.7|01/10/2016
+AB000060|5TH AVENUE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|V177975|Minorista|Hakeem Stephens|S36|Sucursal Elite 36|18 Calle 20-32|Occidente|Quiché|1|5|425|297.5|01/01/2017
+AB000041|Laptop HP|Electronicos|C|P656971|Minorista|Nina Odonnell|S4|Sucursal Elite 39|Av. Elena 9-42 |Norte|Baja Verapaz|12|6|5625|3937.5|01/05/2015
+AB000027|Pelota de baseball|Deporte|C|W521274|Minorista|Kasper Wolfe|S32|Sucursal Elite 32|Blvd. El Caminero 14-32 Col. San Francisco I C.C. San Fransisco Local 6|Norte|Petén|3|9|140|98|01/11/2016
+AB000040|Computadora|Electronicos|C|Z443421|Minorista|Shannon Velez|S15|Sucursal Elite 15|2a Calle 15-42  Col. El Maestro|Norte|Jalapa|4|8|6550|4585|01/05/2017
+AB000050|273 RED FRED HAYMAN ́S DAMA PERFUME 75|Perfumeria|C|O771684|Minorista|Jeremy Taylor|S30|Sucursal Elite 30|7a. Av. 4-97 Col. La Florida|Norte|Escuintla|11|4|355|248.5|01/12/2015
+AB000099|AMARIGE D`AMOUR GIVENCHY|Perfumeria|C|R586843|Minorista|Evangeline Dorsey|S9|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|2|500|350|01/12/2016
+AB000098|AMARIGE GIVENCHY DAMA TOILETTE 100|Perfumeria|C|H162238|Minorista|Hillary Hale|S18|Sucursal Elite 18|4 Calle 9-78|Norte|Alta Verapaz|8|3|656|459.2|01/03/2015
+AB000046|212 VIP WILD PARTY CAROLINA HERRERA DAMA PERFUME 100|Perfumeria|C|Z843862|Minorista|Kelsie Holloway|S17|Sucursal Elite 17|Calz. Roosevelt 34-71 Plaza Helvetia|Norte|Baja Verapaz|15|1|980|686|01/10/2015
+AB000020|Eliptica|Deporte|C|K918411|Minorista|Ocean Joseph|S42|Sucursal Elite 42|Av. Petapa 51-57 Local 157 C.C. Plaza Atanasio Tzul|Norte|Huehuetenango|9|7|2500|1750|01/11/2016
+AB000054|360 COLLECTION PERRY ELLIS DAMA PERFUME 100|Perfumeria|C|L841256|Minorista|Kitra Hood|S14|Sucursal Elite 14|18 Calle 5-44|Sur|Zacapa|4|10|571|399.7|01/07/2015
+AB000097|ALWAYS ALFRED SUNG DAMA PERFUME 100|Perfumeria|C|G526333|Minorista|Karleigh Whitfield|S12|Sucursal Elite 12|6a Calle 4 Av.  Esquina 3-75|Norte|Baja Verapaz|5|4|381|266.7|01/02/2015
+AB000090|AGUA DE LOEWE ELLA LOEWE DAMA TOILETTE 100|Perfumeria|C|Y541543|Minorista|Mari Winters|S28|Sucursal Elite 28|0 Calle 8-00 Col. Santa Teresita C.C. Plaza Express Local 1|Norte|Izabal|12|4|731|511.7|01/10/2016
+AB000069|90210 GOLD JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|C|S922619|Minorista|Jocelyn Sutton|S41|Sucursal Elite 41|CA-9 Atlantico 32-79 C.C. Plaza San Rafael Local 10|Sur|Zacapa|3|4|236|165.2|01/01/2015
+AB000065|5TH AVENUE STYLE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|C|B423618|Minorista|Tanek Green|S37|Sucursal Elite 37|4 Av. 18-37 Local F-07 Galeria Comercial el Amate|Norte|Guatemala|4|7|345|241.5|01/10/2015
+AB000093|ALIEN THIERRY MUGLER DAMA PERFUME 50|Perfumeria|C|H371929|Minorista|Olympia Noble|S17|Sucursal Elite 17|Calz. Roosevelt 34-71 Plaza Helvetia|Norte|Baja Verapaz|15|8|986|690.2|01/08/2016
+AB000003|Pantalon de mezclilla|Ropa de Dama|C|U376487|Minorista|Kasimir Hahn|S30|Sucursal Elite 30|7a. Av. 4-97 Col. La Florida|Norte|Escuintla|11|10|120|84|01/12/2015
+AB000046|212 VIP WILD PARTY CAROLINA HERRERA DAMA PERFUME 100|Perfumeria|C|Z417443|Minorista|Alvin Cain|S18|Sucursal Elite 18|4 Calle 9-78|Norte|Alta Verapaz|8|8|980|686|01/07/2015
+AB000095|ALLURE CHANEL DAMA PERFUME 100|Perfumeria|C|U748251|Minorista|Alice Black|S43|Sucursal Elite 43|5 Calle 19-01 Calz. Jose Milla y Vidaurre|Norte|Alta Verapaz|5|4|1381|966.7|01/02/2015
+AB000019|Caminadora|Deporte|P|NC39233|Mayorista|Magna Lorem LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|29|3800|2660|01/01/2016
+AB000042|Laptop DELL|Electronicos|P|TT58856|Mayorista|Vivamus Nisi Limited|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|36|5400|3780|01/06/2016
+AB000011|Pantalon de vestir|Ropa de caballero|P|YV48515|Mayorista|Euismod Enim Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|30|140|98|01/04/2015
+AB000003|Pantalon de mezclilla|Ropa de Dama|P|KE51218|Mayorista|Fringilla Porttitor Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|20|120|84|01/12/2016
+AB000056|360 PINK PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|QX64757|Mayorista|Ligula Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|30|475|332.5|01/07/2015
+AB000086|ADIDAS FRUITY RHYTHM ADIDAS DAMA TOILETTE 50|Perfumeria|P|JN99126|Mayorista|Erat Nonummy Ultricies Institute|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|46|191|133.7|01/05/2016
+AB000059|360 WHITE PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|JS36344|Mayorista|Aliquet Proin Company|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|50|441|308.7|01/10/2016
+AB000066|90210 FOR HER TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|DN92527|Mayorista|Tellus Institute|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|30|351|245.7|01/08/2016
+AB000081|90210 TOUCH PINK TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|LQ64714|Mayorista|Donec Institute|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|22|256|179.2|01/02/2017
+AB000085|ACQUA DI GIOIA GIORGIO ARMANI DAMA PERFUME 100|Perfumeria|P|PZ21836|Mayorista|Ipsum Primis Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|27|731|511.7|01/06/2017
+AB000037|Cama|Muebles|P|ZJ26397|Mayorista|Vivamus Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|28|4210|2947|01/10/2015
+AB000001|Blusa para dama|Ropa de Dama|P|JY64559|Mayorista|Orci PC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|30|50|35|01/07/2016
+AB000015|Pantalon de lona|Ropa de niños|P|YC43217|Mayorista|Non Quam Pellentesque Inc.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|110|77|01/10/2015
+AB000079|90210 VERY SEXY TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|BF51423|Mayorista|Tincidunt Tempus Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|30|276|193.2|01/05/2016
+AB000029|Estufa|Electrodomesticos|P|TR98357|Mayorista|Dui Fusce LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|45|2399|1679.3|01/02/2017
+AB000069|90210 GOLD JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|NW63423|Mayorista|Pellentesque A Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|43|236|165.2|01/08/2015
+AB000058|360 RED PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|LC61454|Mayorista|Id Magna Et LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|32|391|273.7|01/06/2016
+AB000049|273 FRED HAYMAN ́S DAMA PERFUME 75|Perfumeria|P|WQ97984|Mayorista|Egestas Urna Justo Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|31|431|301.7|01/02/2017
+AB000027|Pelota de baseball|Deporte|P|XA93251|Mayorista|Sed Dolor Fusce Associates|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|32|140|98|01/02/2017
+AB000003|Pantalon de mezclilla|Ropa de Dama|P|SN68257|Mayorista|Eu Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|38|120|84|01/06/2016
+AB000007|Falda corta|Ropa de Dama|P|LE99274|Mayorista|Curabitur Corporation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|27|60|42|01/02/2016
+AB000063|5TH NYC PREMIERE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|P|KL32736|Mayorista|Cum Sociis Natoque Consulting|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|39|380|266|01/06/2015
+AB000017|Camisa|Ropa de niños|P|JT56112|Mayorista|Sodales Incorporated|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|38|60|42|01/09/2016
+AB000066|90210 FOR HER TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|XD49865|Mayorista|Suspendisse Aliquet Limited|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|28|351|245.7|01/01/2017
+AB000094|ALLURE CHANEL DAMA TOILETTE 100|Perfumeria|P|YW27614|Mayorista|Blandit At LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|37|1081|756.7|01/06/2017
+AB000030|Refrigeradora|Electrodomesticos|P|RL84637|Mayorista|Vulputate Eu Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|38|5999|4199.3|01/07/2016
+AB000071|90210 METAL JEANS TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100|Perfumeria|P|RE72959|Mayorista|Adipiscing Ligula Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|266|186.2|01/01/2017
+AB000066|90210 FOR HER TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|LQ88229|Mayorista|Augue Ut Lacus Associates|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|34|351|245.7|01/02/2015
+AB000049|273 FRED HAYMAN ́S DAMA PERFUME 75|Perfumeria|P|TN43869|Mayorista|Lobortis PC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|43|431|301.7|01/08/2016
+AB000083|A SCENT BY ISSEY MIYAKE ISSEY MIYAKE DAMA TOILETTE 100|Perfumeria|P|GB87774|Mayorista|Risus In Mi Industries|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|44|711|497.7|01/01/2017
+AB000092|AIRE LOEWE LOEWE DAMA TOILETTE 100|Perfumeria|P|GK73188|Mayorista|Pede Company|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|41|626|438.2|01/01/2016
+AB000091|AIRE LOCO LOEWE DAMA TOILETTE 100|Perfumeria|P|LB17499|Mayorista|Sed Dictum Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|26|831|581.7|01/05/2016
+AB000083|A SCENT BY ISSEY MIYAKE ISSEY MIYAKE DAMA TOILETTE 100|Perfumeria|P|XC43143|Mayorista|Sem Eget LLP|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|20|711|497.7|01/06/2017
+AB000069|90210 GOLD JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|KS15919|Mayorista|Feugiat Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|48|236|165.2|01/08/2015
+AB000077|90210 TOUCH OF GOLD TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|MZ65188|Mayorista|Elementum At Egestas Company|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|32|331|231.7|01/04/2017
+AB000076|90210 SPORT EXTREME TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|SV76623|Mayorista|Sem LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|226|158.2|01/04/2017
+AB000051|360 PERRY ELLIS DAMA TOILETTE 100|Perfumeria|P|WX14184|Mayorista|Gravida Praesent Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|30|390|273|01/06/2017
+AB000023|Bicicleta estacionaria|Deporte|P|NE19416|Mayorista|Ac Ipsum Institute|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|22|1575|1102.5|01/04/2017
+AB000001|Blusa para dama|Ropa de Dama|P|VU61112|Mayorista|Convallis Convallis Corporation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|50|35|01/02/2016
+AB000074|90210 RED JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|MX75714|Mayorista|Duis Company|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|46|100|70|01/02/2017
+AB000032|Secadora de ropa|Electrodomesticos|P|QD37241|Mayorista|Integer Tincidunt Aliquam Inc.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|23|2840|1988|01/03/2017
+AB000088|ADIDAS FRESH VIBES ADIDAS DAMA TOILETTE 50|Perfumeria|P|SN44569|Mayorista|Ac Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|31|191|133.7|01/07/2015
+AB000018|Playera|Ropa de niños|P|PC34354|Mayorista|Tincidunt Tempus LLP|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|28|60|42|01/08/2016
+AB000033|Televisor 40"|Electrodomesticos|P|CG71283|Mayorista|Nonummy Ut Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|41|4500|3150|01/06/2017
+AB000035|Amueblado de sala|Muebles|P|TR14454|Mayorista|A Felis Ullamcorper Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|43|5400|3780|01/04/2015
+AB000087|ADIDAS FLORAL DREAM ADIDAS DAMA TOILETTE 50|Perfumeria|P|VW35514|Mayorista|Odio Inc.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|45|191|133.7|01/09/2015
+AB000089|ADIDAS TROPICAL PASSION ADIDAS DAMA TOILETTE 50|Perfumeria|P|ZK33632|Mayorista|Rutrum Urna Nec Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|43|191|133.7|01/11/2015
+AB000029|Estufa|Electrodomesticos|P|LF82249|Mayorista|Quam A LLP|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|27|2399|1679.3|01/01/2016
+AB000012|Pantalon de mezclilla|Ropa de caballero|P|MP63625|Mayorista|Ultrices Duis Volutpat Associates|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|25|140|98|01/03/2017
+AB000063|5TH NYC PREMIERE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|P|YF75518|Mayorista|Mattis Semper Dui Institute|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|50|380|266|01/06/2015
+AB000057|360 PURPLE PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|WL53371|Mayorista|Condimentum Eget Volutpat Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|29|495|346.5|01/03/2015
+AB000081|90210 TOUCH PINK TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|KF27823|Mayorista|Eu Eros Nam Incorporated|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|46|256|179.2|01/09/2016
+AB000073|90210 PURE SEXY TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100|Perfumeria|P|WW15854|Mayorista|In Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|44|291|203.7|01/02/2015
+AB000089|ADIDAS TROPICAL PASSION ADIDAS DAMA TOILETTE 50|Perfumeria|P|VZ17471|Mayorista|Luctus Industries|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|191|133.7|01/06/2016
+AB000045|212 VIP ROSE CAROLINA HERRERA DAMA PERFUME 80|Perfumeria|P|WV21923|Mayorista|Molestie Incorporated|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|24|990|693|01/01/2017
+AB000009|Camisa polo|Ropa de caballero|P|WX37251|Mayorista|Pretium Aliquet Metus Incorporated|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|34|120|84|01/02/2016
+AB000066|90210 FOR HER TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|BY33729|Mayorista|Lacus Limited|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|43|351|245.7|01/11/2015
+AB000080|90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|NX96558|Mayorista|Penatibus Incorporated|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|276|193.2|01/03/2016
+AB000019|Caminadora|Deporte|P|GY95757|Mayorista|Sagittis Lobortis Mauris PC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|34|3800|2660|01/11/2016
+AB000095|ALLURE CHANEL DAMA PERFUME 100|Perfumeria|P|MW63791|Mayorista|Proin LLP|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|21|1381|966.7|01/04/2017
+AB000006|Vestidos|Ropa de Dama|P|ZQ96116|Mayorista|Velit Corporation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|24|90|63|01/11/2015
+AB000058|360 RED PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|ME95877|Mayorista|Neque Pellentesque Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|34|391|273.7|01/04/2017
+AB000052|360 BLACK PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|JM48674|Mayorista|Ante LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|21|376|263.2|01/05/2015
+AB000009|Camisa polo|Ropa de caballero|P|LR83328|Mayorista|Nec Leo Consulting|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|47|120|84|01/03/2015
+AB000017|Camisa|Ropa de niños|P|DZ55645|Mayorista|Semper Et Lacinia Associates|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|23|60|42|01/11/2015
+AB000037|Cama|Muebles|P|BU53438|Mayorista|Luctus Company|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|45|4210|2947|01/02/2017
+AB000008|Falda Larga|Ropa de Dama|P|YR18376|Mayorista|Orci LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|24|70|49|01/04/2017
+AB000040|Computadora|Electronicos|P|FG13627|Mayorista|Nulla Interdum Curabitur Incorporated|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|32|6550|4585|01/04/2016
+AB000091|AIRE LOCO LOEWE DAMA TOILETTE 100|Perfumeria|P|MA31163|Mayorista|Feugiat Tellus Lorem Incorporated|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|25|831|581.7|01/07/2016
+AB000026|Pelota de basketball|Deporte|P|FU49931|Mayorista|Nam Tempor Company|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|25|169|118.3|01/10/2015
+AB000045|212 VIP ROSE CAROLINA HERRERA DAMA PERFUME 80|Perfumeria|P|ZJ98595|Mayorista|Ultrices Sit Company|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|24|990|693|01/04/2015
+AB000080|90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|HW71671|Mayorista|Proin Vel Arcu Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|20|276|193.2|01/06/2015
+AB000045|212 VIP ROSE CAROLINA HERRERA DAMA PERFUME 80|Perfumeria|P|MQ77396|Mayorista|Auctor Mauris Consulting|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|36|990|693|01/11/2016
+AB000054|360 COLLECTION PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|ML34358|Mayorista|Ac Facilisis LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|571|399.7|01/08/2015
+AB000095|ALLURE CHANEL DAMA PERFUME 100|Perfumeria|P|JT41914|Mayorista|Morbi Consulting|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|22|1381|966.7|01/01/2016
+AB000032|Secadora de ropa|Electrodomesticos|P|BD98856|Mayorista|Bibendum Fermentum Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|32|2840|1988|01/09/2015
+AB000054|360 COLLECTION PERRY ELLIS DAMA PERFUME 100|Perfumeria|P|SV81439|Mayorista|Vestibulum PC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|42|571|399.7|01/06/2015
+AB000021|Pelota medicinal|Deporte|P|PT97679|Mayorista|Pede Praesent Industries|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|24|150|105|01/01/2016
+AB000064|5TH AVENUE NIGHTS ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|P|PT48994|Mayorista|Lacinia Vitae LLC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|31|335|234.5|01/05/2017
+AB000014|Chumpa de cuero|Ropa de caballero|P|LF88459|Mayorista|Lorem Luctus Ut Institute|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|24|600|420|01/06/2015
+AB000040|Computadora|Electronicos|P|SU45845|Mayorista|Nec Ante Maecenas Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|49|6550|4585|01/04/2016
+AB000026|Pelota de basketball|Deporte|P|ZX55584|Mayorista|Vulputate Risus Limited|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|26|169|118.3|01/05/2017
+AB000073|90210 PURE SEXY TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100|Perfumeria|P|FS69939|Mayorista|Ipsum Corporation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|26|291|203.7|01/09/2015
+AB000087|ADIDAS FLORAL DREAM ADIDAS DAMA TOILETTE 50|Perfumeria|P|GG16557|Mayorista|Ut Aliquam Iaculis Associates|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|40|191|133.7|01/06/2017
+AB000080|90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100|Perfumeria|P|FX58525|Mayorista|Nunc Consulting|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|33|276|193.2|01/06/2015
+AB000051|360 PERRY ELLIS DAMA TOILETTE 100|Perfumeria|P|VV53934|Mayorista|Iaculis Lacus Pede Corp.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|31|390|273|01/02/2017
+AB000042|Laptop DELL|Electronicos|P|MU68338|Mayorista|Rhoncus Nullam PC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|37|5400|3780|01/09/2015
+AB000064|5TH AVENUE NIGHTS ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|P|FF93811|Mayorista|Elit Fermentum Risus Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|48|335|234.5|01/12/2015
+AB000040|Computadora|Electronicos|P|GR71829|Mayorista|Eget Ltd|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|26|6550|4585|01/10/2016
+AB000073|90210 PURE SEXY TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100|Perfumeria|P|KL25699|Mayorista|Ornare Egestas Ligula Limited|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|32|291|203.7|01/02/2016
+AB000012|Pantalon de mezclilla|Ropa de caballero|P|WR15121|Mayorista|Sapien Cras Dolor PC|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|22|140|98|01/01/2015
+AB000008|Falda Larga|Ropa de Dama|P|YS38377|Mayorista|Sit LLP|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|39|70|49|01/10/2015
+AB000011|Pantalon de vestir|Ropa de caballero|P|MH98481|Mayorista|Luctus Et Ultrices Industries|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|36|140|98|01/07/2015
+AB000042|Laptop DELL|Electronicos|P|GB95125|Mayorista|Dolor Sit Amet Institute|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|31|5400|3780|01/04/2017
+AB000030|Refrigeradora|Electrodomesticos|P|LZ68724|Mayorista|Sed Auctor Odio Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|44|5999|4199.3|01/03/2017
+AB000017|Camisa|Ropa de niños|P|BH46389|Mayorista|Augue Consulting|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|42|60|42|01/01/2016
+AB000063|5TH NYC PREMIERE ELIZABETH ARDEN DAMA PERFUME 125|Perfumeria|P|HE39815|Mayorista|Nunc Sit Amet Inc.|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|43|380|266|01/05/2017
+AB000004|Blazer|Ropa de Dama|P|PP58745|Mayorista|Nostra Per Inceptos Foundation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|27|180|126|01/04/2016
+AB000010|Camisa de vestir|Ropa de caballero|P|CL79515|Mayorista|Amet Nulla Donec LLP|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|28|150|105|01/06/2016
+AB000032|Secadora de ropa|Electrodomesticos|P|FQ39259|Mayorista|Accumsan Corporation|S1|Sucursal Elite 1|4a Av. 23-29|Norte|Guatemala|1|31|2840|1988|01/04/2017
